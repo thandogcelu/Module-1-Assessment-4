@@ -1,0 +1,47 @@
+#menu-bar a{
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url('Images/menu-button.gif');
+    background-repeat: no-repeat;
+    display:block;
+    width:128px;
+    height:25px;
+    padding-left: 18px;
+    padding-top: 2px;
+    
+    float: left;
+}
+#menu-bar a:hover{
+background-image: url('images/menu-button-hover.gif');
+color: #ffffff;
+
+}
+
+th {
+    font-weight: 800;
+}
+
+table{
+    font-family : Helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    font-weight     : 800;
+    background-color: #2695A6;
+    color           : #ffffff;
+}
+
+table{
+    font-family    : Helvetica, sans-sarif;
+    border-collapse: collapse;
+    border-width   : 1px;
+    border-style   : solid;
+    border-color   : #2695A6;
+}
